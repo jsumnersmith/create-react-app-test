@@ -8,7 +8,7 @@
     "react-dom": "^15.5.4",
     "react-sortable-hoc": "^0.6.2"
   },
-  "homepage": "https://jusmnersmith.github.io/prototyping-with-react",
+  "homepage": "https://jusmnersmith.github.io/create-react-app-test",
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
